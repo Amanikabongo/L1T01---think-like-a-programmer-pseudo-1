@@ -1,0 +1,48 @@
+                                        Question 1
+
+Step1  start 
+Step2 Read positive number num2
+                                                  num2
+                                                  num2
+Step3 input Zero value (0)
+Step4 output num2,num2,num2...
+                  
+                                       Question 2
+
+
+        Sum = 2  
+        Count = 2
+
+       read integer from input
+       
+       While input is not empty:    
+       sum = sum + integer 
+       count = Count + 1
+       read integer from input 
+
+average = sum / count 
+
+                                       Question 3 
+
+Step1  start
+Step2  Read   grocery A
+                        grocery B
+                        grocery C
+                        grocery D
+                        grocery E
+                        
+Step3 product E,F,G
+Step4 print  product 
+Step5 stop
+
+
+                                           Question 4
+
+Step1 start 
+Step2 Read X,Y
+Step3 S =  X+Y
+           A = S/2
+           P = X×Y
+Step4 write S.A.P
+
+                                     
