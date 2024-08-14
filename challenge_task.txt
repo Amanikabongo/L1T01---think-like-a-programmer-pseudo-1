@@ -1,7 +1,7 @@
 Step1   start
 Step2  Read sorted numbers 
 Step3  input sorted number  num1
-                                                 num2
-                                                 num3
+                            num2
+                            num3
 Step4  print sorted numbers
 Step5  stop 
