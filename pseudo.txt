@@ -1,0 +1,9 @@
+                                        Question 1
+
+Step1  start 
+Step2 Read positive number num2
+                                                  num2
+                                                  num2
+Step3 input Zero value (0)
+Step4 output num2,num2,num2...
+                                             
